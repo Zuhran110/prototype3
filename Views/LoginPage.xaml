@@ -38,7 +38,8 @@
                     Command="{Binding LoginCommand}"
                     HorizontalAlignment="Right"
                     Width="100"
-                    Margin="0,20,0,0" />
+                    Margin="0,20,0,0"
+                    Style="{StaticResource AccentButtonStyle}" />
 
             <TextBlock Text="{Binding LoginMessage}" Margin="0,20,0,0" Foreground="Red" />
         </StackPanel>
