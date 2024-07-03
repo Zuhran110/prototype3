@@ -3,7 +3,6 @@
 using Microsoft.UI.Xaml.Navigation;
 
 using prototype3.Contracts.Services;
-using prototype3.Views;
 
 namespace prototype3.ViewModels;
 

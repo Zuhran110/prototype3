@@ -6,7 +6,6 @@ using prototype3.Activation;
 using prototype3.Contracts.Services;
 using prototype3.Core.Contracts.Services;
 using prototype3.Core.Services;
-using prototype3.Helpers;
 using prototype3.Services;
 using prototype3.ViewModels;
 using prototype3.Views;
@@ -15,7 +14,10 @@ namespace prototype3;
 
 public partial class App : Application
 {
-    public IHost Host { get; }
+    public IHost Host
+    {
+        get;
+    }
 
     public static T GetService<T>()
         where T : class
@@ -30,7 +32,10 @@ public partial class App : Application
 
     public static WindowEx MainWindow { get; } = new MainWindow();
 
-    public static UIElement? AppTitlebar { get; set; }
+    public static UIElement? AppTitlebar
+    {
+        get; set;
+    }
 
     public App()
     {
@@ -66,7 +71,7 @@ public partial class App : Application
             services.AddTransient<ShellViewModel>();
 
             // Register LoginPage and LoginViewModel
-            
+
             services.AddTransient<LoginPage>();
 
             // Configuration
@@ -81,7 +86,7 @@ public partial class App : Application
         // TODO: Log and handle exceptions as appropriate.
     }
 
-    protected async override void OnLaunched(LaunchActivatedEventArgs args)
+    protected override async void OnLaunched(LaunchActivatedEventArgs args)
     {
         base.OnLaunched(args);
 

@@ -4,7 +4,6 @@ using Microsoft.UI.Xaml.Controls;
 
 using prototype3.Contracts.Services;
 using prototype3.Helpers;
-using prototype3.ViewModels;
 
 namespace prototype3.Services;
 

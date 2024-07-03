@@ -1,10 +1,10 @@
 ﻿{
-    "profiles": {
-      "prototype3 (Package)": {
-        "commandName": "MsixPackage"
-      },
-      "prototype3 (Unpackaged)": {
-        "commandName": "Project"
-      }
+  "profiles": {
+    "prototype3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "prototype3 (Unpackaged)": {
+      "commandName": "Project"
     }
+  }
 }
