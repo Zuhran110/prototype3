@@ -1,0 +1,12 @@
+C:\Users\35305\source\repos\prototype3.Core\bin\x86\Debug\net7.0\prototype3.Core.deps.json
+C:\Users\35305\source\repos\prototype3.Core\bin\x86\Debug\net7.0\prototype3.Core.dll
+C:\Users\35305\source\repos\prototype3.Core\bin\x86\Debug\net7.0\prototype3.Core.pdb
+C:\Users\35305\source\repos\prototype3.Core\obj\x86\Debug\net7.0\prototype3.Core.csproj.AssemblyReference.cache
+C:\Users\35305\source\repos\prototype3.Core\obj\x86\Debug\net7.0\prototype3.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35305\source\repos\prototype3.Core\obj\x86\Debug\net7.0\prototype3.Core.AssemblyInfoInputs.cache
+C:\Users\35305\source\repos\prototype3.Core\obj\x86\Debug\net7.0\prototype3.Core.AssemblyInfo.cs
+C:\Users\35305\source\repos\prototype3.Core\obj\x86\Debug\net7.0\prototype3.Core.csproj.CoreCompileInputs.cache
+C:\Users\35305\source\repos\prototype3.Core\obj\x86\Debug\net7.0\prototype3.Core.dll
+C:\Users\35305\source\repos\prototype3.Core\obj\x86\Debug\net7.0\refint\prototype3.Core.dll
+C:\Users\35305\source\repos\prototype3.Core\obj\x86\Debug\net7.0\prototype3.Core.pdb
+C:\Users\35305\source\repos\prototype3.Core\obj\x86\Debug\net7.0\ref\prototype3.Core.dll
